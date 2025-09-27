@@ -18,7 +18,7 @@ This project analyzes Facebook Ad Campaign performance data to uncover insights,
 
 ## 🛠️ Tech Stack
 - Python (Pandas, Matplotlib)  
-- Jupyter Notebook  
+- Google Colab Notebook  
 - Dataset: Kaggle  
 
 ## 📊 Analysis Performed
