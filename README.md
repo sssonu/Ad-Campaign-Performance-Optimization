@@ -52,8 +52,3 @@ Example Plots:
 - **Budget forecast**: +20% budget increase projects proportional conversion gains, but low-ROI campaigns remain inefficient → scale selectively, not uniformly.
  
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/<your-username>/Ad-Campaign-Performance-Optimization.git
-cd Ad-Campaign-Performance-Optimization
-jupyter notebook ad_campaign_analysis.ipynb
