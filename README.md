@@ -39,11 +39,14 @@ This project analyzes Facebook Ad Campaign performance data to uncover insights,
 - ROI vs Spend Scatterplot  
 - CTR by Age Group  
 
-Example Plots:  
+Plots:  
 
-![CTR by Campaign](images/ctr_by_campaign.png)  
-![ROI vs Spend](images/roi_vs_spend.png)  
-![CTR by Age](images/ctr_by_age.png)  
+![CTR by Campaign](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/8b727321-d09b-43b6-8c21-e375f58bd247" />
+)  
+![ROI vs Spend](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/425cac5c-023f-4ab9-bb6f-eca4fe5a55e0" />
+)  
+![CTR by Age](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/e8006223-3d2a-4c35-abc2-ada16d9c2823" />
+)  
 
 ## 💡 Key Insights
 - Campaign **916** delivered the **highest ROI (0.387)** while Campaign **1178** had high spend ($55.7K) but **lowest ROI (0.048)** → prime candidate for budget reallocation.  
