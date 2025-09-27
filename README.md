@@ -46,9 +46,11 @@ Example Plots:
 ![CTR by Age](images/ctr_by_age.png)  
 
 ## 💡 Key Insights
-- Campaign `916` delivered the **highest ROI** while Campaign `1178` had high spend but poor conversions → candidate for budget reallocation.  
-- Age group **30-34** had the **highest CTR**, especially among males.  
-- With a +20% budget increase in high-performing campaigns, forecast shows a **~15% uplift in conversions**.  
+- Campaign **916** delivered the **highest ROI (0.387)** while Campaign **1178** had high spend ($55.7K) but **lowest ROI (0.048)** → prime candidate for budget reallocation.  
+- **Older age groups (45-49)** showed the **highest CTR**, with CTR increasing monotonically from younger to older cohorts (30-34 to 45-49).  
+- **Gender patterns**: Female cohorts demonstrate lower CPC in multiple age bands, improving cost efficiency potential.  
+- **Budget forecast**: +20% budget increase projects proportional conversion gains, but low-ROI campaigns remain inefficient → scale selectively, not uniformly.
+ 
 
 ## 🚀 How to Run
 ```bash
