@@ -41,8 +41,8 @@ This project analyzes Facebook Ad Campaign performance data to uncover insights,
 
 Plots:  
 
-![CTR by Campaign](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/8b727321-d09b-43b6-8c21-e375f58bd247" />
-)  
+<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/8b727321-d09b-43b6-8c21-e375f58bd247" />
+
 ![ROI vs Spend](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/425cac5c-023f-4ab9-bb6f-eca4fe5a55e0" />
 )  
 ![CTR by Age](<img width="1024" height="532" alt="image" src="https://github.com/user-attachments/assets/e8006223-3d2a-4c35-abc2-ada16d9c2823" />
